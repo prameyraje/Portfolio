@@ -50,5 +50,3 @@ Feel free to reach out if you have any questions, feedback, or collaboration opp
 - LinkedIn: [linkedin.com/in/prameyraje](https://www.linkedin.com/in/prameyraje)
 - GitHub: [github.com/PrameyRaje](https://github.com/PrameyRaje)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
